@@ -20,7 +20,7 @@ export default function Hero() {
             IT Student / Aspiring Network Engineer / Traveler
           </h1>
           <p className="text-muted max-w-md mb-8">
-            I am an IT student passionate about crafting clean, human-centered digital products — translating ideas and business goals into interfaces people enjoy using.
+            Focused on Information Technology, networking, web development, and technical problem-solving, with a practical approach to learning and working with technology. I also enjoy traveling and discovering new places along the way.
           </p>
 
           <div className="flex flex-wrap items-center gap-6">
