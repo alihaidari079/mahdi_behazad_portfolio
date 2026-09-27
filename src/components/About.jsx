@@ -1,10 +1,11 @@
 import Portrait from './Portrait.jsx'
+import mahdi from '../assets/mahdi.png'
 
 export default function About() {
   return (
     <section id="about" className="section-pad py-16 md:py-24 bg-panel">
       <div className="max-w-content mx-auto grid md:grid-cols-2 gap-12 items-center">
-       <img src="/public/mahdi.png" alt=""
+       <img src={mahdi} alt=""
           className='relative w-full max-w-sm mx-auto aspect-[4/5] object-cover rounded-2xl border border-line'
           />
 

@@ -1,5 +1,6 @@
 import { FaFacebookF, FaTwitter, FaLinkedinIn,  FaInstagram } from 'react-icons/fa'
 import Portrait from './Portrait.jsx'
+import mahdi from '../assets/mahdi.png'
 
 const socials = [
   { icon: FaFacebookF, href: 'https://www.facebook.com/mahdi.behzad.664464?mibextid=ZbWKwL' },
@@ -46,7 +47,7 @@ export default function Hero() {
 
         <div className="relative">
           <div className="absolute -inset-6 bg-accent/10 rounded-2xl blur-2xl" aria-hidden="true" />
-          <img src="/public/mahdi.png" alt=""
+          <img src={mahdi} alt=""
           className='relative w-full max-w-sm mx-auto aspect-[4/5] object-cover rounded-2xl border border-line'
           />
           {/* <Portrait className="relative w-full max-w-sm mx-auto rounded-2xl" /> */}
