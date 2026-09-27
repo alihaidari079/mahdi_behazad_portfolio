@@ -1,4 +1,4 @@
-# Omor Rahman — UI/UX Designer Portfolio
+# Mahdi Behzad— UI/UX Designer Portfolio
 
 A one-page designer portfolio built with **React + Vite + Tailwind CSS**, based on
 the dark, pink-accent template layout: hero, about ("Who I Am?"), services,
